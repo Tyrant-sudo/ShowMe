@@ -1,0 +1,8 @@
+{
+  "name": "Reality Anchor",
+  "description": "A compassionate grounding companion that helps users reconnect with the present moment by verbally confirming real, tangible objects in their environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
