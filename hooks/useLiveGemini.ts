@@ -132,6 +132,7 @@ export const useLiveGemini = () => {
             autoGainControl: true,
           }, 
           video: {
+            facingMode: "environment", // Use rear camera on mobile
             width: { ideal: 640 },
             height: { ideal: 480 },
             frameRate: { ideal: 15 }
